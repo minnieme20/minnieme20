@@ -7,7 +7,7 @@ Front-End Developer
 I am a self taught front End developer, I am very eager to become a full stack developer which is why I am pursuing a Software Engineering sprint course with ALX Africa
 
 * ✉️  You can contact me at [minniethuo@protonmail.com](mailto:minniethuo@protonmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on any python practice projects
 
 ### Skills
